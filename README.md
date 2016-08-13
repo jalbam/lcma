@@ -1,5 +1,6 @@
-La Carta Mas Alta
-================== by Joan Alba Maldonado (granvino@granvino.com)
+La Carta Mas Alta 
+================== 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Card game totally written in PHP and HTML.
 
