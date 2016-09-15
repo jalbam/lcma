@@ -9,6 +9,9 @@ Created on 19th December 2005 (approximately).
 You can donate at http://sourceforge.net/donate/index.php?group_id=173637
 
 
+![ScreenShot](screenshot.jpg)
+
+
 Description
 
 Open source card game made with PHP, HTML and a little bit of CSS.
