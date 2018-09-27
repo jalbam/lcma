@@ -14,8 +14,9 @@
 
     //Se inicia sesion o se continua:
     session_name("lcma");
-    session_start("lcma");
+	session_start(); //session_start("lcma"); //For PHP7 compatibility (Added on 27 SEP 2018).
 
+	//For PHP5 compatibility (Added on 27 SEP 2018):
 	if (!isset($HTTP_GET_VARS) || isset($_GET)) { $HTTP_GET_VARS = &$_GET; }
 	if (!isset($HTTP_SESSION_VARS) || isset($_SESSION)) { $HTTP_SESSION_VARS = &$_SESSION; }
     
