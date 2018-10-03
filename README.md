@@ -1,4 +1,4 @@
-La Carta Mas Alta 
+La Carta Más Alta 
 ================== 
 by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
