@@ -1,0 +1,2 @@
+* Poner las cartas mas pequeñas verticalmente y horizontalmetne para que no haga scrolling en resoluciones bajas.
+* Poner un height en las tables de las cartas para algunos navegadores (considerar imagen transparente vertical si es preciso para que no se contraiga la tabla).
